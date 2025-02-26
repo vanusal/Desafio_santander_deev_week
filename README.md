@@ -1,5 +1,5 @@
 # Desafio_santander_deev_week
-Santander Dev Week 2023
+
 Projeto Conceitual Java RESTful API criada para a Santander Dev Week.
 
 Principais Tecnologias Aplicadas:
